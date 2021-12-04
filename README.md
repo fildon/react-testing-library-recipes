@@ -2,6 +2,8 @@
 
 This repository is a collection of common testing recipes for using [React Testing Library](https://testing-library.com/docs/react-testing-library/intro).
 
+It was created as a companion to my blog post over here: [React Testing Library Recipes](https://blog.fildon.me/react-testing-library-recipes)
+
 ## Prerequisites
 
 [Node and NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
